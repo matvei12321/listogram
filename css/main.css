@@ -10,8 +10,7 @@ hr {
    }
 .layer {
     overflow: scroll; /* Добавляем полосы прокрутки */
-    width: 300px; /* Ширина блока */
-    height: 150px; /* Высота блока */
+    width: 200px; /* Ширина блока */
     padding: 5px; /* Поля вокруг текста */
     border: solid 1px black; /* Параметры рамки */
 }
