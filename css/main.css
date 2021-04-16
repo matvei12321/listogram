@@ -4,7 +4,7 @@
 }
 hr {
     border: none; /* Убираем границу */
-    background-color: red; /* Цвет линии */
-    color: red; /* Цвет линии для IE6-7 */
+    background-color: dark; /* Цвет линии */
+    color: dark; /* Цвет линии для IE6-7 */
     height: 2px; /* Толщина линии */
    }
