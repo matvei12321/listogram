@@ -10,4 +10,6 @@ hr {
    }
 .layer {
     overflow: scroll; /* Добавляем полосы прокрутки */
+  overflow-x: hidden;
+overflow-y: scroll;
 }
