@@ -3,11 +3,11 @@
   background-color: white;
 }
 .logo {
+  margin-left: 50px;
     width: 165px;
     height: 100%;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    color: var(--text_primary);
 }
