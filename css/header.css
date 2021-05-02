@@ -10,4 +10,5 @@
     display: flex;
     -ms-flex-align: center;
     align-items: center;
+  background-color: white;
 }
