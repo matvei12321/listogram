@@ -9,8 +9,3 @@ hr {
     color: grey; /* Цвет линии для IE6-7 */
     height: 2px; /* Толщина линии */
    }
-.layer {
-    overflow: scroll; /* Добавляем полосы прокрутки */
-  overflow-x: hidden;
-overflow-y: scroll;
-}
