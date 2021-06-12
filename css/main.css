@@ -6,6 +6,12 @@
 	box-sizing: border-box;
 }
 
+a {
+    color: #242e31;
+    text-decoration: none;
+    font-weight: 600;
+   }
+
 .main {
     margin-left: 140px; /* Same width as the sidebar + left position in px */
     font-size: 13px; /* Increased text to enable scrolling */
