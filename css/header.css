@@ -30,7 +30,7 @@ header {
     display: block;
 }
 .header__menu {
-    display: flex;
+	display: block;
 	position: relative;
 	z-index: 2;
 }
