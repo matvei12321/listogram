@@ -99,9 +99,6 @@ header {
     transition: all 0.4s ease;
 	left:-100%;
 }
-.header__menu {
-	display: block;
-}
 .header__nav.open-menu{
     left:0;
 	overflow: auto;
