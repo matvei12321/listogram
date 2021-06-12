@@ -105,6 +105,9 @@ header {
 }
 .header__nav.open-menu{
     left:0;
+	overflow: auto;
+    overflow-y: scroll;
+    height: 530px;
 }
 .header__menu li {
 	margin: 40px 0px 40px 33px;
