@@ -91,7 +91,7 @@ header {
 .header__nav {
 	display: block;
 	position: absolute;
-    top: 55px;
+    top: 75px;
     left: 0;
     background: rgb(245, 246, 246);
     box-shadow: #ccc;
