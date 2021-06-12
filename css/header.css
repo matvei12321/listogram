@@ -16,7 +16,6 @@ header {
 .logo {
   margin-left: 50px;
     width: 165px;
-    height: 100%;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-align: center;
