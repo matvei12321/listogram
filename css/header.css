@@ -98,7 +98,6 @@ header {
     transition: 0.4s;
 }
 
-@media(max-width: 767px){
 .header__nav {
 	display: block;
 	position: absolute;
@@ -122,6 +121,7 @@ header {
     font-size: 14px;
 	}
 
+@media(max-width: 767px){
 header {
 	height: 60px;
 }
