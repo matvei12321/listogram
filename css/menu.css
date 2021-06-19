@@ -1,6 +1,7 @@
 .zornet_ru_gresam {  
   width: 150px;  
   overflow: hidden;  
+  margin-top: 100px;
   }  
   .zornet_ru_gresam ul li:hover {  
   background: #e1e5eb;  
