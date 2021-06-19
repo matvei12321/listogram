@@ -45,61 +45,6 @@ header {
     padding: 10px;
     line-height: 34px;
 }
-.zornet_ru_gresam {  
-  width: 150px;  
-  overflow: hidden;  
-  }  
-  .zornet_ru_gresam ul li:hover {  
-  background: #e1e5eb;  
-  text-decoration: none;  
-  border-radius: 2px;  
-  }  
-
-  .zornet_ru_gresam ul li a {  
-  height: 28px;  
-  line-height: 27px;  
-  font-size: 12.5px;  
-  overflow: hidden;  
-  text-overflow: ellipsis;  
-  color: #285473;  
-  display: block;  
-  }  
-  .zornet_ru_gresam .left_icon {  
-  width: 35px;  
-  height: 25px;  
-  background: url("http://zornet.ru/Aben/ABGDA/zornet_ru/menu_icon.png") no-repeat 7px -441px;  
-  display: block;  
-  float: left;  
-  }  
-
-  .more_div {  
-  margin-top: 9px;  
-  margin-left: 27px;  
-  margin-right: 6px;  
-  padding-top: 9px;  
-  border-top: 1px solid #dfe2e8;  
-  }  
-
-  .tukolpersa_lintes {  
-  padding-top: 16px;  
-  margin-top: 10px;  
-  border-top: 1px solid #dfe2e8;  
-  color: #939699;  
-  line-height: 19px;  
-  font-size: 12px;  
-  }  
-
-  .tukolpersa_lintes a {  
-  padding-right: 10px;  
-  color: #939699;  
-  white-space: nowrap;  
-  line-height: 19px;  
-  font-size: 12px;  
-  }  
-
-  .tukolpersa_lintes a:hover {  
-  text-decoration: underline;  
-  }
 @media(max-width: 767px){
 header {
 	height: 60px;
