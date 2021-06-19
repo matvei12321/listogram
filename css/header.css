@@ -97,15 +97,14 @@ header {
     width: 200px;
     box-shadow: 0 4px 2px -2px rgba(36, 36, 36, 0.37);
     transition: all 0.4s ease;
-	overflow: auto;
-    overflow-y: scroll;
-    height: 500px;
+	margin-left: -200px;
 }
 .header__nav.open-menu{
     left:0;
 	overflow: auto;
     overflow-y: scroll;
     height: 530px;
+	    margin-left: 0px;
 }
 .header__menu li {
 	margin: 20px 0px 20px 33px;
@@ -122,6 +121,4 @@ header {
 .fixed-pade {
     overflow: hidden;
 }
-
-
 }
